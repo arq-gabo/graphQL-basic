@@ -13,10 +13,12 @@
   "author": "José Gabriel Guerra",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-graphql": "^0.12.0",
     "graphql": "^15.4.0",
-    "graphql-tools": "^7.0.2"
+    "graphql-tools": "^7.0.2",
+    "mongo": "^0.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7",
